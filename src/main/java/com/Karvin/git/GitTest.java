@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hot-fix test!");
         System.out.println("Push Test");
         System.out.println("Pull Test by git-idea");
+        System.out.println("Push Test to Gitee");
     }
 }
