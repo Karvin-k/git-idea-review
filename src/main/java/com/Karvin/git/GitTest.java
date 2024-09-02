@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("Pull Test by git-idea");
         System.out.println("Push Test to Gitee");
         System.out.println("Pull Test by Gitee");
+        System.out.println("Pull Test by Gitee-new");
     }
 }
